@@ -1,0 +1,1239 @@
+2025-07-01 15:20:22,718 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Navigating to backend folder...
+2025-07-01 15:20:24,064 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     assess.sh: line 15: lsof: command not found
+2025-07-01 15:20:24,618 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Running npm install for backend...
+2025-07-01 15:20:24,618 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     /app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/backend/server.js:350
+2025-07-01 15:20:25,219 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:20:29,330 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     added 1 package, and audited 115 packages in 1s
+2025-07-01 15:20:29,930 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:20:30,531 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     20 packages are looking for funding
+2025-07-01 15:20:31,132 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     run `npm fund` for details
+2025-07-01 15:20:31,734 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:20:32,334 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     found 0 vulnerabilities
+2025-07-01 15:20:32,935 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Starting npm server...
+2025-07-01 15:20:33,536 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:20:34,137 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     > employee-resignation-backend@1.0.0 start
+2025-07-01 15:20:34,738 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     > node server.js
+2025-07-01 15:20:35,339 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:20:35,940 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Navigating to assessment folder...
+2025-07-01 15:21:06,835 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Running npm install for assessment...
+2025-07-01 15:21:07,436 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:08,037 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     added 267 packages, and audited 268 packages in 38s
+2025-07-01 15:21:08,639 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:09,240 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     63 packages are looking for funding
+2025-07-01 15:21:09,843 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     run `npm fund` for details
+2025-07-01 15:21:10,343 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:10,344 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     server.on('error', (err) => {
+2025-07-01 15:21:10,844 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     found 0 vulnerabilities
+2025-07-01 15:21:10,844 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     ^
+2025-07-01 15:21:11,345 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Running Cypress tests...
+2025-07-01 15:21:11,345 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:11,845 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [STARTED] Task without title.
+2025-07-01 15:21:11,845 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     ReferenceError: server is not defined
+2025-07-01 15:21:12,446 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at Object.<anonymous> (/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/backend/server.js:350:1)
+2025-07-01 15:21:13,047 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at Module._compile (node:internal/modules/cjs/loader:1469:14)
+2025-07-01 15:21:13,648 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+2025-07-01 15:21:14,249 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at Module.load (node:internal/modules/cjs/loader:1288:32)
+2025-07-01 15:21:14,750 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [SUCCESS] Task without title.
+2025-07-01 15:21:14,751 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at Module._load (node:internal/modules/cjs/loader:1104:12)
+2025-07-01 15:21:15,251 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:15,251 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+2025-07-01 15:21:15,873 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     at node:internal/main/run_main_module:28:49
+2025-07-01 15:21:16,475 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:17,076 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Node.js v20.17.0
+2025-07-01 15:21:17,677 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [301:0701/152109.909394:ERROR:file_path_watcher_inotify.cc(822)] Failed to read /proc/sys/fs/inotify/max_user_watches
+2025-07-01 15:21:18,979 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [90m====================================================================================================[39m
+2025-07-01 15:21:19,581 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:20,186 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [0m  ([4m[1mRun Starting[22m[24m)[0m
+2025-07-01 15:21:20,786 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     
+2025-07-01 15:21:21,388 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+2025-07-01 15:21:21,971 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [90m  │[39m [90mCypress:[39m        13.17.0                                                                        [90m│[39m
+2025-07-01 15:21:21,971 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [302:0701/152109.913020:ERROR:file_path_watcher_inotify.cc(822)] Failed to read /proc/sys/fs/inotify/max_user_watches
+2025-07-01 15:21:21,973 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     [0m[0m
+[0m  Backend API Tests for Employee and Admin Role[0m
+  [31m  1) should register a new employee[0m
+  [31m  2) should login the employee with valid credentials[0m
+  [31m  3) should submit resignation for an employee[0m
+  [31m  4) should login as admin (HR)[0m
+  [31m  5) should view all resignations submitted by employees as admin[0m
+  [31m  6) should approve the employee’s resignation as admin[0m
+  [31m  7) should allow the employee to submit responses to exit questionnaire[0m
+  [31m  8) should allow the admin to view all questionnaire responses[0m
+
+
+[92m [0m[32m 0 passing[0m[90m (3s)[0m
+[31m  8 failing[0m
+
+[0m  1) Backend API Tests for Employee and Admin Role
+       should register a new employee:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/auth/register
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/auth/register
+Headers: {
+  "Connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 50
+}
+Body: {"username":"emp_1751383278801","password":"emp4"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:18 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:9:7)
+[0m
+[0m  2) Backend API Tests for Employee and Admin Role
+       should login the employee with valid credentials:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/auth/login
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/auth/login
+Headers: {
+  "Connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 50
+}
+Body: {"username":"emp_1751383278801","password":"emp4"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:19 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:22:7)
+[0m
+[0m  3) Backend API Tests for Employee and Admin Role
+       should submit resignation for an employee:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/user/resign
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/user/resign
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 20
+}
+Body: {"lwd":"2024-12-26"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:19 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:34:7)
+[0m
+[0m  4) Backend API Tests for Employee and Admin Role
+       should login as admin (HR):
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/auth/login
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/auth/login
+Headers: {
+  "Connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 39
+}
+Body: {"username":"admin","password":"admin"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:20 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:51:7)
+[0m
+[0m  5) Backend API Tests for Employee and Admin Role
+       should view all resignations submitted by employees as admin:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/admin/resignations
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: GET
+URL: http://localhost:8080/api/admin/resignations
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate"
+}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:20 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:63:7)
+[0m
+[0m  6) Backend API Tests for Employee and Admin Role
+       should approve the employee’s resignation as admin:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/admin/conclude_resignation
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: PUT
+URL: http://localhost:8080/api/admin/conclude_resignation
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 58
+}
+Body: {"resignationId":null,"approved":true,"lwd":"26 Dec 2024"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:20 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:77:7)
+[0m
+[0m  7) Backend API Tests for Employee and Admin Role
+       should allow the employee to submit responses to exit questionnaire:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/user/responses
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/user/responses
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 239
+}
+Body: {"responses":[{"questionText":"What prompted you to start looking for another job?","response":"Lack of career growth opportunities"},{"questionText":"Would you recommend this company to others?","response":"Yes, with some reservations"}]}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:21 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:96:7)
+[0m
+[0m  8) Backend API Tests for Employee and Admin Role
+       should allow the admin to view all questionnaire responses:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/admin/exit_responses
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: GET
+URL: http://localhost:8080/api/admin/exit_responses
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate"
+}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:21 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:122:7)
+[0m
+
+
+[[90mmochawesome[39m] Report JSON saved to /app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/assessment/mochawesome-report/my-report.json
+
+[[90mmochawesome[39m] Report HTML saved to /app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/assessment/mochawesome-report/my-report.html
+
+
+[31m  ([4m[1mResults[22m[24m)[39m
+
+[90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[90m  │[39m [90mTests:[39m        [31m8[39m                                                                                [90m│[39m
+[90m  │[39m [90mPassing:[39m      [31m0[39m                                                                                [90m│[39m
+[90m  │[39m [90mFailing:[39m      [31m8[39m                                                                                [90m│[39m
+[90m  │[39m [90mPending:[39m      [31m0[39m                                                                                [90m│[39m
+[90m  │[39m [90mSkipped:[39m      [31m0[39m                                                                                [90m│[39m
+[90m  │[39m [90mScreenshots:[39m  [31m8[39m                                                                                [90m│[39m
+[90m  │[39m [90mVideo:[39m        [31mfalse[39m                                                                            [90m│[39m
+[90m  │[39m [90mDuration:[39m     [31m2 seconds[39m                                                                        [90m│[39m
+[90m  │[39m [90mSpec Ran:[39m     [31m[31mbackendTests.spec.js[31m[39m                                                             [90m│[39m
+[90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+
+
+[33m  ([4m[1mScreenshots[22m[24m)[39m
+
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should register a new employee (failed).png[0m                   
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should login the employee with valid credential[0m               
+[90m [39m    [0ms (failed).png[0m                                                                                 
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should submit resignation for an employee (fail[0m               
+[90m [39m    [0med).png[0m                                                                                        
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should login as admin (HR) (failed).png[0m                       
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should view all resignations submitted by emplo[0m               
+[90m [39m    [0myees as admin (failed).png[0m                                                                     
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should approve the employee’s resignation as ad[0m               
+[90m [39m    [0mmin (failed).png[0m                                                                               
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should allow the employee to submit responses t[0m               
+[90m [39m    [0mo exit questionnaire (failed).png[0m                                                              
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should allow the admin to view all questionnair[0m               
+[90m [39m    [0me responses (failed).png[0m                                                                       
+
+
+[90m====================================================================================================[39m
+
+[0m  ([4m[1mRun Finished[22m[24m)[0m
+
+
+[90m   [39m    [90mSpec[39m                                              [90mTests[39m  [90mPassing[39m  [90mFailing[39m  [90mPending[39m  [90mSkipped[39m [90m [39m
+[90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[90m  │[39m [31m✖[39m  [0mbackendTests.spec.js[0m                     [90m00:02[39m        [0m8[0m        [90m-[39m        [31m8[39m        [90m-[39m        [90m-[39m [90m│[39m
+[90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[90m   [39m [31m✖[39m  [31m1 of 1 failed (100%)[39m                     [90m00:02[39m        [0m8[0m        [90m-[39m        [31m8[39m        [90m-[39m        [90m-[39m [90m [39m
+2025-07-01 15:21:22,028 unitTesting-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c INFO     Navigating to backend folder...
+assess.sh: line 15: lsof: command not found
+Running npm install for backend...
+/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/backend/server.js:350
+
+added 1 package, and audited 115 packages in 1s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+Starting npm server...
+
+> employee-resignation-backend@1.0.0 start
+> node server.js
+
+Navigating to assessment folder...
+Running npm install for assessment...
+
+added 267 packages, and audited 268 packages in 38s
+
+63 packages are looking for funding
+  run `npm fund` for details
+
+server.on('error', (err) => {
+found 0 vulnerabilities
+^
+Running Cypress tests...
+
+[STARTED] Task without title.
+ReferenceError: server is not defined
+    at Object.<anonymous> (/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/backend/server.js:350:1)
+    at Module._compile (node:internal/modules/cjs/loader:1469:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1548:10)
+    at Module.load (node:internal/modules/cjs/loader:1288:32)
+[SUCCESS] Task without title.
+    at Module._load (node:internal/modules/cjs/loader:1104:12)
+
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:174:12)
+    at node:internal/main/run_main_module:28:49
+
+Node.js v20.17.0
+[301:0701/152109.909394:ERROR:file_path_watcher_inotify.cc(822)] Failed to read /proc/sys/fs/inotify/max_user_watches
+[90m====================================================================================================[39m
+
+[0m  ([4m[1mRun Starting[22m[24m)[0m
+
+[90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[90m  │[39m [90mCypress:[39m        13.17.0                                                                        [90m│[39m
+[302:0701/152109.913020:ERROR:file_path_watcher_inotify.cc(822)] Failed to read /proc/sys/fs/inotify/max_user_watches
+
+[0m[0m
+[0m  Backend API Tests for Employee and Admin Role[0m
+  [31m  1) should register a new employee[0m
+  [31m  2) should login the employee with valid credentials[0m
+  [31m  3) should submit resignation for an employee[0m
+  [31m  4) should login as admin (HR)[0m
+  [31m  5) should view all resignations submitted by employees as admin[0m
+  [31m  6) should approve the employee’s resignation as admin[0m
+  [31m  7) should allow the employee to submit responses to exit questionnaire[0m
+  [31m  8) should allow the admin to view all questionnaire responses[0m
+
+
+[92m [0m[32m 0 passing[0m[90m (3s)[0m
+[31m  8 failing[0m
+
+[0m  1) Backend API Tests for Employee and Admin Role
+       should register a new employee:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/auth/register
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/auth/register
+Headers: {
+  "Connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 50
+}
+Body: {"username":"emp_1751383278801","password":"emp4"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:18 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:9:7)
+[0m
+[0m  2) Backend API Tests for Employee and Admin Role
+       should login the employee with valid credentials:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/auth/login
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/auth/login
+Headers: {
+  "Connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 50
+}
+Body: {"username":"emp_1751383278801","password":"emp4"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:19 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:22:7)
+[0m
+[0m  3) Backend API Tests for Employee and Admin Role
+       should submit resignation for an employee:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/user/resign
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/user/resign
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 20
+}
+Body: {"lwd":"2024-12-26"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:19 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:34:7)
+[0m
+[0m  4) Backend API Tests for Employee and Admin Role
+       should login as admin (HR):
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/auth/login
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/auth/login
+Headers: {
+  "Connection": "keep-alive",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 39
+}
+Body: {"username":"admin","password":"admin"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:20 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:51:7)
+[0m
+[0m  5) Backend API Tests for Employee and Admin Role
+       should view all resignations submitted by employees as admin:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/admin/resignations
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: GET
+URL: http://localhost:8080/api/admin/resignations
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate"
+}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:20 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:63:7)
+[0m
+[0m  6) Backend API Tests for Employee and Admin Role
+       should approve the employee’s resignation as admin:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/admin/conclude_resignation
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: PUT
+URL: http://localhost:8080/api/admin/conclude_resignation
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 58
+}
+Body: {"resignationId":null,"approved":true,"lwd":"26 Dec 2024"}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:20 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:77:7)
+[0m
+[0m  7) Backend API Tests for Employee and Admin Role
+       should allow the employee to submit responses to exit questionnaire:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/user/responses
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: POST
+URL: http://localhost:8080/api/user/responses
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate",
+  "content-type": "application/json",
+  "content-length": 239
+}
+Body: {"responses":[{"questionText":"What prompted you to start looking for another job?","response":"Lack of career growth opportunities"},{"questionText":"Would you recommend this company to others?","response":"Yes, with some reservations"}]}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:21 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:96:7)
+[0m
+[0m  8) Backend API Tests for Employee and Admin Role
+       should allow the admin to view all questionnaire responses:
+[0m[31m     CypressError: `cy.request()` failed on:
+
+http://localhost:8080/api/admin/exit_responses
+
+The response we received from your web server was:
+
+  > 404: Not Found
+
+This was considered a failure because the status code was not `2xx` or `3xx`.
+
+If you do not want status codes to cause failures pass the option: `failOnStatusCode: false`
+
+-----------------------------------------------------------
+
+The request we sent was:
+
+Method: GET
+URL: http://localhost:8080/api/admin/exit_responses
+Headers: {
+  "Connection": "keep-alive",
+  "Authorization": "undefined",
+  "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Cypress/13.17.0 Chrome/118.0.5993.159 Electron/27.3.10 Safari/537.36",
+  "accept": "*/*",
+  "accept-encoding": "gzip, deflate"
+}
+
+-----------------------------------------------------------
+
+The response we got was:
+
+Status: 404 - Not Found
+Headers: {
+  "server": "gunicorn/20.0.4",
+  "date": "Tue, 01 Jul 2025 15:21:21 GMT",
+  "connection": "keep-alive",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "232"
+}
+Body: <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+https://on.cypress.io/request[0m[90m
+      at <unknown> (http://localhost:8080/__cypress/runner/cypress_runner.js:132876:72)
+      at tryCatcher (http://localhost:8080/__cypress/runner/cypress_runner.js:1830:23)
+      at Promise._settlePromiseFromHandler (http://localhost:8080/__cypress/runner/cypress_runner.js:1542:31)
+      at Promise._settlePromise (http://localhost:8080/__cypress/runner/cypress_runner.js:1599:18)
+      at Promise._settlePromise0 (http://localhost:8080/__cypress/runner/cypress_runner.js:1644:10)
+      at Promise._settlePromises (http://localhost:8080/__cypress/runner/cypress_runner.js:1724:18)
+      at _drainQueueStep (http://localhost:8080/__cypress/runner/cypress_runner.js:2430:12)
+      at _drainQueue (http://localhost:8080/__cypress/runner/cypress_runner.js:2423:9)
+      at Async._drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2439:5)
+      at Async.drainQueues (http://localhost:8080/__cypress/runner/cypress_runner.js:2309:14)
+  From Your Spec Code:
+      at Context.eval (webpack://exitease/./cypress/integration/backend/backendTests.spec.js:122:7)
+[0m
+
+
+[[90mmochawesome[39m] Report JSON saved to /app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/assessment/mochawesome-report/my-report.json
+
+[[90mmochawesome[39m] Report HTML saved to /app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME_MERN_XEXIT/assessment/mochawesome-report/my-report.html
+
+
+[31m  ([4m[1mResults[22m[24m)[39m
+
+[90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[90m  │[39m [90mTests:[39m        [31m8[39m                                                                                [90m│[39m
+[90m  │[39m [90mPassing:[39m      [31m0[39m                                                                                [90m│[39m
+[90m  │[39m [90mFailing:[39m      [31m8[39m                                                                                [90m│[39m
+[90m  │[39m [90mPending:[39m      [31m0[39m                                                                                [90m│[39m
+[90m  │[39m [90mSkipped:[39m      [31m0[39m                                                                                [90m│[39m
+[90m  │[39m [90mScreenshots:[39m  [31m8[39m                                                                                [90m│[39m
+[90m  │[39m [90mVideo:[39m        [31mfalse[39m                                                                            [90m│[39m
+[90m  │[39m [90mDuration:[39m     [31m2 seconds[39m                                                                        [90m│[39m
+[90m  │[39m [90mSpec Ran:[39m     [31m[31mbackendTests.spec.js[31m[39m                                                             [90m│[39m
+[90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+
+
+[33m  ([4m[1mScreenshots[22m[24m)[39m
+
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should register a new employee (failed).png[0m                   
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should login the employee with valid credential[0m               
+[90m [39m    [0ms (failed).png[0m                                                                                 
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should submit resignation for an employee (fail[0m               
+[90m [39m    [0med).png[0m                                                                                        
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should login as admin (HR) (failed).png[0m                       
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should view all resignations submitted by emplo[0m               
+[90m [39m    [0myees as admin (failed).png[0m                                                                     
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should approve the employee’s resignation as ad[0m               
+[90m [39m    [0mmin (failed).png[0m                                                                               
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should allow the employee to submit responses t[0m               
+[90m [39m    [0mo exit questionnaire (failed).png[0m                                                              
+[90m [39m -  [0m/app/abhiramakv-ME_MERN_XEXIT-a3ee8ab6-b3bd-40e6-8d39-cf15b1bf1d4c/abhiramakv-ME[0m     [90m[90m(1280x720)[90m[39m
+[90m [39m    [0m_MERN_XEXIT/assessment/cypress/screenshots/backendTests.spec.js/Backend API Test[0m               
+[90m [39m    [0ms for Employee and Admin Role -- should allow the admin to view all questionnair[0m               
+[90m [39m    [0me responses (failed).png[0m                                                                       
+
+
+[90m====================================================================================================[39m
+
+[0m  ([4m[1mRun Finished[22m[24m)[0m
+
+
+[90m   [39m    [90mSpec[39m                                              [90mTests[39m  [90mPassing[39m  [90mFailing[39m  [90mPending[39m  [90mSkipped[39m [90m [39m
+[90m  ┌[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┐[39m
+[90m  │[39m [31m✖[39m  [0mbackendTests.spec.js[0m                     [90m00:02[39m        [0m8[0m        [90m-[39m        [31m8[39m        [90m-[39m        [90m-[39m [90m│[39m
+[90m  └[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m─[39m[90m┘[39m
+[90m   [39m [31m✖[39m  [31m1 of 1 failed (100%)[39m                     [90m00:02[39m        [0m8[0m        [90m-[39m        [31m8[39m        [90m-[39m        [90m-[39m [90m [39m
+
+
